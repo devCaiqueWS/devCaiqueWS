@@ -11,7 +11,7 @@
 <center>
 <br><br>
 
-![Caique's GitHub stats](https://github-readme-stats.vercel.app/api?username=WNTDprodigy&show_icons=true&theme=tokyonight)
+![Caique's GitHub stats](https://github-readme-stats.vercel.app/api?username=WNTDprodigy&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight)
 
 <br>
 
@@ -34,4 +34,4 @@
 </div>
 <br/><br/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
