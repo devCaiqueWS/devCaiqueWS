@@ -1,6 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9b59b6&height=120&section=header"/>
 
+<div align="center">
+  
+<img height="60px" widht="60px" src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.gif"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=8B2CF7&center=true&vCenter=false&width=435&lines=Hello%2C+My+name+is+Ca%C3%ADque+Walter;Welcome+to+my+github!+:%29)](https://git.io/typing-svg)
+
+</div>
 
 ---
   
