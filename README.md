@@ -4,7 +4,7 @@
   
 <img height="60px" widht="60px" src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.gif"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=8B2CF7&center=true&vCenter=false&width=435&lines=Hello%2C+My+name+is+Ca%C3%ADque+Walter;Welcome+to+my+github!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=8B2CF7&center=true&vCenter=false&width=435&lines=Hello%2C+My+name+is+Ca%C3%ADque+Walter;Welcome+to+my+github!+👨‍💻💾)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,11 @@
 
 ---
 
+<div align="center">
+
 ![Caique's GitHub stats](https://github-readme-stats.vercel.app/api?username=devCaiqueWS&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devCaiqueWS&hide_progress=true&theme=tokyonight)
+
+</div>
 
 ---
 
@@ -67,5 +71,9 @@
 
 ---
 
-![snake gif](https://tm.ibxk.com.br/2013/4/materias/3517281112104128.gif)
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="300">
+<div align="center">
+  
+  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="300">
+  
+</div>
+
