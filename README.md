@@ -30,6 +30,7 @@
 <br/>
 <div style="display: inline_table">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" width="50">
+<img src="https://cdn.creazilla.com/icons/3270329/next-dot-js-icon-size_256.png" alt="Next Logo" width="50">
 <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="Node.js logo" width="45">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50em"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript logo" width="50">
