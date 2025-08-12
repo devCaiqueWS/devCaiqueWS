@@ -23,8 +23,9 @@
 ---
 
 <div align="center">
+  
 <p align="center">
-![Caique's GitHub stats](https://github-readme-stats.vercel.app/api?username=devCaiqueWS&show_icons=true&theme=tokyonight)  
+  <img src="https://github-readme-stats.vercel.app/api?username=devCaiqueWS&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 </p>
   
 <p align="center">
