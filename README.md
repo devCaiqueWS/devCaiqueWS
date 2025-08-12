@@ -23,8 +23,13 @@
 ---
 
 <div align="center">
-
-![Caique's GitHub stats](https://github-readme-stats.vercel.app/api?username=devCaiqueWS&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devCaiqueWS&hide_progress=true&theme=tokyonight)
+<p align="center">
+![Caique's GitHub stats](https://github-readme-stats.vercel.app/api?username=devCaiqueWS&show_icons=true&theme=tokyonight)  
+</p>
+  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devCaiqueWS&theme=tokyonight" height="170"/>
+</p>
 
 </div>
 
